@@ -1,6 +1,6 @@
-# yardenahcapital
+# Yardenah Capital
 
-A new Flutter application. 
+A new Financial Analysis Android and iOS App using Flutter.
 
 ## Getting Started
 
