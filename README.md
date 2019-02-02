@@ -1,6 +1,6 @@
-# Yardenah Capital
+# Flutter Trial
 
-A new Financial Analysis Android and iOS App using Flutter.
+A Flutter Trial app.
 
 ## Getting Started
 
